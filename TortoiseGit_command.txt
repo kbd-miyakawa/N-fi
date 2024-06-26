@@ -1,0 +1,19 @@
+﻿"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:log
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:add
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:commit
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:ignore
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:pull
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:push
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:clone
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:branch
+
+
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:remove
+"C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe" /command:rename
+
+
+
+https://tortoisegit.org/docs/tortoisegit/tgit-automation.html
+
+
+
